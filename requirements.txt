@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+torch
+backtrader
+yfinance
+ta-lib
+matplotlib
+seaborn
+hyperopt
+shap
+stable-baselines3
+gym
